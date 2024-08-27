@@ -1,4 +1,4 @@
-setwd("E:/envio")
+
 library(ggplot2)
 library(RColorBrewer)
 data<-read.table("envio.txt")
